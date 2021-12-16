@@ -1,0 +1,27 @@
+{
+  "name": "chatBot",
+  "version": "1.0.0",
+  "description": "**chatBot*",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SandyJacobs/chatBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SandyJacobs/chatBot/issues"
+  },
+  "homepage": "https://github.com/SandyJacobs/chatBot#readme",
+  "dependencies": {
+    "@telegraf/session": "^1.0.1",
+    "axios": "^0.24.0",
+    "moment": "^2.29.1",
+    "node-schedule": "^1.3.0",
+    "telegraf": "^3.17.3"
+  }
+}
